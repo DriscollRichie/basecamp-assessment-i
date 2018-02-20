@@ -59,4 +59,4 @@ function sum(num) {
 
 function greeter(name, num) {
   return 'Hi! I am ' + name + ' and I am ' + num + ' years old';
-}
+} 
